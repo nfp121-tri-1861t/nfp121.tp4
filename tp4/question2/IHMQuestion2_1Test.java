@@ -11,7 +11,7 @@ import java.util.Random;
 public class IHMQuestion2_1Test extends junit.framework.TestCase
 {
     private static Random random= new Random();
-    private JFrame f;
+    private JApplet f;
     private Robot robot;
 
     public void test_presence_fichiers_question2() {

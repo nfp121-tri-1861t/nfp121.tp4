@@ -1,5 +1,6 @@
 #BlueJ class context
-comment0.target=IHMQuestion2_1()
-comment1.params=args
-comment1.target=void\ main(String[])
+comment0.target=IHMQuestion2_1
+comment1.params=
+comment1.target=void\ init()
+comment1.text=\r\n\ Appel\u00E9e\ par\ le\ navigateur\ ou\ le\ visualiseur\ afin\ de\ signaler\ \u00E0\ l'Applet\r\n\ qu'il\ est\ maintenant\ pris\ en\ charge\ par\ le\ syst\u00E8me.\ Il\ est\ garanti\ que\r\n\ ceci\ pr\u00E9c\u00E9dera\ le\ premier\ appel\ de\ la\ m\u00E9thode\ start.\r\n
 numComments=2
